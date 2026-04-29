@@ -1,4 +1,52 @@
-## Hi there 👋
+# Hey, I'm Ryan Azrya 👋
+
+🎓 Data Science student @ Telkom University  
+📍 Bandung, Indonesia  
+🌱 Learning from zero — one commit at a time  
+
+---
+
+## 🚀 About Me
+
+I'm a first-year Data Science student who decided to go all in on learning data science outside of class too.  
+This GitHub is my learning journal — raw progress, real projects, no filter.
+
+My goal? Compete in **Satria Data** and **GEMASTIK** 🎯
+
+---
+
+## 🛠️ Currently Learning
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+---
+
+## 📂 My Learning Repos
+
+| Repo | Description |
+|------|-------------|
+| [Learning-Phase](https://github.com/ryanazryaa/Learning-Phase) | 📒 My DS learning journey from scratch |
+
+---
+
+## 📊 GitHub Stats
+
+![Ryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryanazryaa&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanazryaa&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 📬 Let's Connect
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
+
+---
+
+> *"Mulai dulu, sempurnain nanti."* 🚀
 
 <!--
 **ryanazryaa/ryanazryaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
