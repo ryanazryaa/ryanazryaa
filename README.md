@@ -1,4 +1,4 @@
-# Hey, I'm Ryan Azrya 👋
+# Hey, I'm Ryan 👋
 
 🎓 Data Science student @ Telkom University  
 📍 Bandung, Indonesia  
