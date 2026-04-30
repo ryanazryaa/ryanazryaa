@@ -46,7 +46,7 @@ My goal? Compete in **Satria Data** and **GEMASTIK** 🎯
 
 ---
 
-> *"Mulai dulu, sempurnain nanti."* 🚀
+> *"Start first, then perfect it."* 🚀
 
 <!--
 **ryanazryaa/ryanazryaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
