@@ -29,6 +29,7 @@ My goal? Compete in **Satria Data** and **GEMASTIK** 🎯
 | Repo | Description |
 |------|-------------|
 | [Learning-Phase](https://github.com/ryanazryaa/Learning-Phase) | 📒 My DS learning journey from scratch |
+| [PRODIGI](https://github.com/ryanazryaa/PRODIGI) | 📒 What i learned from being a Talent in PRODIGI |
 
 ---
 
