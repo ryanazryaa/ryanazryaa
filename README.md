@@ -35,9 +35,9 @@ My goal? Compete in **Satria Data** and **GEMASTIK** 🎯
 
 ## 📊 GitHub Stats
 
-![Ryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryanazryaa&show_icons=true&theme=tokyonight&hide_border=true)
+![Ryan's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ryanazryaa&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanazryaa&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ryanazryaa&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
