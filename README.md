@@ -32,6 +32,8 @@ My goal? Compete in **Satria Data** and **GEMASTIK** 🎯
 | [PRODIGI](https://github.com/ryanazryaa/PRODIGI) | 📒 What i learned from being a Talent in PRODIGI |
 
 And self projects i do to make myself better at coding!
+
+
 ---
 
 ## 📊 GitHub Stats
