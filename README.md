@@ -30,9 +30,9 @@ My goal? Compete in **Satria Data** and **GEMASTIK** 🎯
 |------|-------------|
 | [Learning-Phase](https://github.com/ryanazryaa/Learning-Phase) | 📒 My DS learning journey from scratch |
 | [PRODIGI](https://github.com/ryanazryaa/PRODIGI) | 📒 What i learned from being a Talent in PRODIGI |
-And self projects i do to make myself better at coding!
 
 ---
+And self projects i do to make myself better at coding!
 
 ## 📊 GitHub Stats
 
