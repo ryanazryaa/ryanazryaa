@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a first-year Data Science student who decided to go all in on learning data science outside of class too.  
+I'm a second-year Data Science student who decided to go all in on learning data science outside of class too.  
 This GitHub is my learning journal — raw progress, real projects, no filter.
 
 My goal? Compete in **Satria Data** and **GEMASTIK** 🎯
